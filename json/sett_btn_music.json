@@ -1,0 +1,26 @@
+{
+    "COLOR":
+    [
+        92,
+        94,
+        34
+    ],
+    "COLOR_B":
+    [
+        34,
+        45,
+        0
+    ],
+    "COLOR_TXT":
+    [
+        0,
+        0,
+        0
+    ],
+    "FONT": "20179.ttf",
+    "TEXT_BTN":["On/off","Fon1","Fon2","Fon3","Back"],
+    "COUNT_BTN": 5,
+    "IMAGE":"btn.jpg",
+    "FON":["fon1.mp3","fon2.mp3","fon3.mp3"]
+
+}

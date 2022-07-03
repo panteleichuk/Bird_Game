@@ -1,0 +1,25 @@
+{
+    "COLOR":
+    [
+        92,
+        94,
+        34
+    ],
+    "COLOR_B":
+    [
+        34,
+        45,
+        0
+    ],
+    "COLOR_TXT":
+    [
+        0,
+        0,
+        0
+    ],
+    "FONT": "20179.ttf",
+    "TEXT_BTN":["Win size","Music","Back"],
+    "COUNT_BTN": 3,
+    "IMAGE":"btn.jpg"
+
+}

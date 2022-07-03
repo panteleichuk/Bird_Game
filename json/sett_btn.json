@@ -1,0 +1,25 @@
+{
+    "COLOR":
+    [
+        92,
+        94,
+        34
+    ],
+    "COLOR_B":
+    [
+        34,
+        45,
+        0
+    ],
+    "COLOR_TXT":
+    [
+        0,
+        0,
+        0
+    ],
+    "FONT": "20179.ttf",
+    "TEXT_BTN":["New Game","Load","Setting","EXIT"],
+    "COUNT_BTN": 4,
+    "IMAGE":"btn.jpg"
+
+}
